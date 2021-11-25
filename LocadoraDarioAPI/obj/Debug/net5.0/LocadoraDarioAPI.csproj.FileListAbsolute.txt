@@ -1,0 +1,67 @@
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.exe
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.deps.json
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.runtimeconfig.json
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.runtimeconfig.dev.json
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\ref\LocadoraDarioAPI.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.pdb
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.csproj.AssemblyReference.cache
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.AssemblyInfoInputs.cache
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.AssemblyInfo.cs
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.csproj.CoreCompileInputs.cache
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\staticwebassets\LocadoraDarioAPI.StaticWebAssets.Manifest.cache
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\staticwebassets\LocadoraDarioAPI.StaticWebAssets.xml
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\scopedcss\bundle\LocadoraDarioAPI.styles.css
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\ref\LocadoraDarioAPI.dll
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.pdb
+C:\Users\tiago.junior\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.genruntimeconfig.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.exe
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.deps.json
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.runtimeconfig.json
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.runtimeconfig.dev.json
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\ref\LocadoraDarioAPI.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\LocadoraDarioAPI.pdb
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.csprojAssemblyReference.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.AssemblyInfoInputs.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.AssemblyInfo.cs
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\staticwebassets\LocadoraDarioAPI.StaticWebAssets.Manifest.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\staticwebassets\LocadoraDarioAPI.StaticWebAssets.xml
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\scopedcss\bundle\LocadoraDarioAPI.styles.css
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.csproj.CopyComplete
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\ref\LocadoraDarioAPI.dll
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.pdb
+C:\Users\Dario Pregnolato\source\repos\LocadoraDarioAPI\LocadoraDarioAPI\obj\Debug\net5.0\LocadoraDarioAPI.genruntimeconfig.cache
